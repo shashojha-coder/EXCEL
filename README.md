@@ -3,7 +3,7 @@
 ## Title
 **Token-Based Pay-Per-Use in AI-Enabled SaaS: Effects on Adoption, Retention Risk, and Payback Efficiency**
 
-**Student / Program / University**  
+**Student / Program / University**
 Shashank Ojha — M.Sc. International Business Management — HWR Berlin
 
 ---
@@ -77,13 +77,13 @@ This model is internally consistent if payback is treated as **mechanism-level i
 - A staged plan (artifact coding → discourse validation → survey pilot → fielding) is methodologically sound.
 
 ### 5.3 Validity Risks and Mitigation
-- **Construct validity risk:** token features are multidimensional.  
+- **Construct validity risk:** token features are multidimensional.
   **Mitigation:** explicit codebook, double-coding, inter-rater checks.
-- **Measurement validity risk (text):** classifier false positives.  
+- **Measurement validity risk (text):** classifier false positives.
   **Mitigation:** human-labeled benchmark, precision/recall reporting.
-- **Causal validity risk:** experiment uses intention outcomes.  
+- **Causal validity risk:** experiment uses intention outcomes.
   **Mitigation:** clearly delimit claims to attitudinal/intentional effects.
-- **External validity risk:** public discourse is non-representative.  
+- **External validity risk:** public discourse is non-representative.
   **Mitigation:** treat as risk-signal environment, not direct churn measurement.
 
 ---
