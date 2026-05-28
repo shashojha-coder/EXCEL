@@ -24,7 +24,7 @@ How do token-based pay-per-use pricing designs in AI-enabled SaaS influence adop
 2. **SQ2 (Design → Adoption):** How are design attributes (complexity, transparency, predictability controls, commitment mechanisms) associated with adoption-relevant perceptions and market signals?
 3. **SQ3 (Design → Retention Risk):** How are these attributes associated with retention-risk narratives in public discourse (e.g., bill shock, confusion, perceived unfairness)?
 4. **SQ4 (Causal Mechanisms):** Under cost-spike scenarios, do transparency and predictability controls reduce switching intention via perceived predictability and fairness?
-5. **SQ5 (Anchor-Case Synthesis):** How does Clay illustrate, extend, or boundary-condition market-level patterns?
+5. **SQ5 (Illustrative Synthesis):** How do illustrative market examples extend or boundary-condition market-level patterns?
 
 ---
 
@@ -108,7 +108,7 @@ This model is internally consistent if payback is treated as **mechanism-level i
 - **SQ1:** typology via transparent rule-based taxonomy first; cluster analysis as robustness.
 - **SQ2/SQ3:** association models with category controls and exposure normalization; present as correlational evidence.
 - **SQ4:** regression/ANOVA with mediation analysis (predictability and fairness as mediators); test subgroup heterogeneity (e.g., practitioner vs student, high vs low prior AI-tool use).
-- **SQ5:** structured anchor-case comparison for Clay against archetype expectations and boundary conditions.
+- **SQ5:** structured illustrative comparison against archetype expectations and boundary conditions.
 
 For payback interpretation:
 - avoid claiming realized CAC payback;
@@ -136,9 +136,9 @@ Recommended literature expansion should include:
 - No claim of firm-level CAC payback performance without internal CAC, gross margin, and cohort data.
 - No direct churn inference from public discourse.
 - Experimental results identify causal effects on perceptions/intentions under designed scenarios, not observed long-run behavior.
-- Clay is an interpretive anchor case, not the sole evidentiary base.
+- Illustrative examples are interpretive aids, not the sole evidentiary base.
 
 ---
 
 ## 10) Revised Academic-Tone Abstract
-This proposal investigates token-based pay-per-use pricing in AI-enabled SaaS, focusing on how tariff design influences adoption-related evaluations, retention-risk appraisals, and payback-efficiency mechanisms. Integrating pricing-design attributes (complexity, transparency, predictability controls, commitment mechanisms) with cognitive appraisals (predictability, fairness, trust), the study applies a mixed-method design combining a market artifact dataset (N=45), public discourse analysis, a vignette-based survey experiment, and optional interviews. Clay is incorporated as an anchor case for mechanism interpretation. The expected contribution is a theory-informed framework that differentiates token-pricing architectures and explains their behavioral implications while clearly delimiting inference where firm-internal payback data are unavailable.
+This proposal investigates token-based pay-per-use pricing in AI-enabled SaaS, focusing on how tariff design influences adoption-related evaluations, retention-risk appraisals, and payback-efficiency mechanisms. Integrating pricing-design attributes (complexity, transparency, predictability controls, commitment mechanisms) with cognitive appraisals (predictability, fairness, trust), the study applies a mixed-method design combining a market artifact dataset (N=45), public discourse analysis, a vignette-based survey experiment, and optional interviews. Illustrative examples are used only for mechanism interpretation. The expected contribution is a theory-informed framework that differentiates token-pricing architectures and explains their behavioral implications while clearly delimiting inference where firm-internal payback data are unavailable.
