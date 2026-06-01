@@ -173,11 +173,11 @@ This thesis examines token-based pay-per-use pricing in AI-enabled SaaS and asks
 ## 11) References (APA 7th)
 Al Naqbi, H., Bahroun, Z., & Ahmed, V. (2024). Enhancing work productivity through generative artificial intelligence: A comprehensive literature review. *Sustainability, 16*(3), 1166. https://doi.org/10.3390/su16031166
 
-Bain & Company. (2025). *Per-seat software pricing isn’t dead, but new models are gaining steam*. Retrieved from https://www.bain.com/
+Bain & Company. (2025). *Per-seat software pricing isn’t dead, but new models are gaining steam*. Retrieved from https://www.bain.com/insights/per-seat-software-pricing-isnt-dead-but-new-models-are-gaining-steam/
 
-Boston Consulting Group. (2024). *GenAI needs pricing strategies to match its potential*. Retrieved from https://www.bcg.com/
+Boston Consulting Group. (2024). *GenAI needs pricing strategies to match its potential*. Retrieved from https://www.bcg.com/publications/2024/genai-needs-pricing-strategies-to-match-its-potential
 
-Boston Consulting Group. (2025). *Rethinking B2B software pricing in the era of AI*. Retrieved from https://www.bcg.com/
+Boston Consulting Group. (2025). *Rethinking B2B software pricing in the era of AI*. Retrieved from https://web-assets.bcg.com/pdf-src/prod-live/rethinking-b2b-software-pricing-in-the-era-of-ai.pdf
 
 Brynjolfsson, E., Li, D., & Raymond, L. (2025). Generative AI at work. *The Quarterly Journal of Economics, 140*(2), 889–942. https://doi.org/10.1093/qje/qjae044
 
@@ -185,19 +185,19 @@ Calvano, E. (2023). Algorithmic harm in consumer markets. *Journal of Legal Anal
 
 Das, S., Stanton, R., & Wallace, N. (2023). Algorithmic fairness. *Annual Review of Financial Economics, 15*(1), 565–593. https://doi.org/10.1146/annurev-financial-110921-125930
 
-Deloitte Insights. (2024). *Monetizing Gen AI in software*. Retrieved from https://www2.deloitte.com/us/en/insights.html
+Deloitte Insights. (2024). *Monetizing Gen AI in software*. Retrieved from https://www2.deloitte.com/us/en/insights/industry/technology/technology-media-and-telecom-predictions/monetizing-gen-ai-in-software.html
 
 Gu, Y., Gomez-Ramirez, I., Rius-Ulldemolins, J., & Liu, B. (2024). Exploring consumer acceptance of AI-generated advertisements. *Journal of Theoretical and Applied Electronic Commerce Research, 19*(2), 449–465. https://doi.org/10.3390/jtaer19020022
 
 McKinsey Global Institute. (2023). *The economic potential of generative AI: The next productivity frontier*. Retrieved from https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai-the-next-productivity-frontier
 
-McKinsey & Company. (2024). *How gen AI will reshape the software business*. Retrieved from https://www.mckinsey.com/
+McKinsey & Company. (2024). *How gen AI will reshape the software business*. Retrieved from https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/how-gen-ai-will-reshape-the-software-business
 
-McKinsey & Company. (2025a). *Upgrading software business models to thrive in the AI era*. Retrieved from https://www.mckinsey.com/
+McKinsey & Company. (2025a). *Upgrading software business models to thrive in the AI era*. Retrieved from https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/upgrading-software-business-models-to-thrive-in-the-ai-era
 
-McKinsey & Company. (2025b). *B2B pricing: Navigating the next phase of the AI revolution*. Retrieved from https://www.mckinsey.com/
+McKinsey & Company. (2025b). *B2B pricing: Navigating the next phase of the AI revolution*. Retrieved from https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/b2b-pricing-navigating-the-next-phase-of-the-ai-revolution
 
-PwC. (2024). *The path to generative AI value*. Retrieved from https://www.pwc.com/
+PwC. (2024). *The path to generative AI value*. Retrieved from https://www.pwc.com/generative-ai-value
 
 Shin, D., Lee, M. J., & Park, Y. J. (2022). Fairness perceptions of algorithmic decision-making: A systematic review of the empirical literature. *Big Data & Society, 9*(1). https://doi.org/10.1177/20539517221082809
 
