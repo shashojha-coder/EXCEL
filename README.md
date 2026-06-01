@@ -197,7 +197,7 @@ McKinsey & Company. (2025a). *Upgrading software business models to thrive in th
 
 McKinsey & Company. (2025b). *B2B pricing: Navigating the next phase of the AI revolution*. Retrieved from https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/b2b-pricing-navigating-the-next-phase-of-the-ai-revolution
 
-PwC. (2024). *The path to generative AI value*. Retrieved from https://www.pwc.com/generative-ai-value
+PwC. (2024). *The path to generative AI value*. Retrieved from https://www.pwc.com/us/en/tech-effect/ai-analytics/generative-ai-value.html
 
 Shin, D., Lee, M. J., & Park, Y. J. (2022). Fairness perceptions of algorithmic decision-making: A systematic review of the empirical literature. *Big Data & Society, 9*(1). https://doi.org/10.1177/20539517221082809
 
