@@ -1,4 +1,4 @@
-# Research Proposal (Revised Draft)
+# Final Thesis Draft (Revised)
 
 ## Title
 **Token-Based Pay-Per-Use in AI-Enabled SaaS: Effects on Adoption, Retention Risk, and Payback Efficiency**
@@ -8,10 +8,25 @@ Shashank Ojha — M.Sc. International Business Management — HWR Berlin
 
 ---
 
-## 1) Research Focus and Theoretical Positioning
-The diffusion of generative AI has increased the use of credit- or token-based pricing in SaaS, where usage events (e.g., enrichments, generations, automations) are mapped to billable units. This pricing form can improve entry flexibility but may also increase perceived complexity, billing uncertainty, and fairness concerns. At the same time, vendors face margin volatility and pressure to shorten recovery of customer acquisition investments.
+## Table of Contents
+1. [Research Focus and Theoretical Positioning](#1-research-focus-and-theoretical-positioning)
+2. [Main Research Question and Sub-Questions](#2-main-research-question-and-sub-questions)
+3. [Expected Theoretical Contribution](#3-expected-theoretical-contribution)
+4. [Conceptual Model and Internal Consistency](#4-conceptual-model-and-internal-consistency)
+5. [Methodological Design: Feasibility and Validity](#5-methodological-design-feasibility-and-validity)
+6. [Measurement Model Improvements](#6-measurement-model-improvements)
+7. [Analysis Plan Improvements](#7-analysis-plan-improvements)
+8. [Missing Constructs, Literature Streams, and Alternative Explanations](#8-missing-constructs-literature-streams-and-alternative-explanations)
+9. [Limits of Inference (Clarified)](#9-limits-of-inference-clarified)
+10. [Revised Academic-Tone Abstract](#10-revised-academic-tone-abstract)
+11. [References (APA 7th)](#11-references-apa-7th)
 
-This proposal studies how token-pricing design choices shape **(a)** adoption-oriented evaluations, **(b)** retention risk appraisals, and **(c)** payback-efficiency mechanisms. The theoretical contribution is an integrated framework linking tariff design and information architecture to customer cognitive appraisals and downstream behavioral risk indicators.
+---
+
+## 1) Research Focus and Theoretical Positioning
+The diffusion of generative AI has increased the use of credit- or token-based pricing in SaaS, where usage events (e.g., enrichments, generations, automations) are mapped to billable units. This pricing form can improve entry flexibility but may also increase perceived complexity, billing uncertainty, and fairness concerns (Lambrecht & Skiera, 2006; Xia et al., 2004). At the same time, vendors face margin volatility and pressure to shorten recovery of customer acquisition investments (Farris et al., 2010).
+
+This thesis studies how token-pricing design choices shape **(a)** adoption-oriented evaluations, **(b)** retention risk appraisals, and **(c)** payback-efficiency mechanisms. The theoretical contribution is an integrated framework linking tariff design and information architecture to customer cognitive appraisals and downstream behavioral risk indicators (Bhattacherjee, 2001; Gefen et al., 2003; Xia et al., 2004).
 
 ---
 
@@ -33,6 +48,8 @@ This study aims to contribute by:
 - Disaggregating “usage-based pricing” into observable token-design dimensions rather than treating it as one homogeneous model.
 - Integrating adoption and retention perspectives within one cognitive-appraisal framework.
 - Clarifying what can and cannot be inferred about payback from public design artifacts when internal CAC and margin data are unavailable.
+
+These contributions build on established research in tariff-choice effects, trust/continuance in digital services, and pricing-fairness appraisals (Bhattacherjee, 2001; Gefen et al., 2003; Lambrecht & Skiera, 2006; Xia et al., 2004).
 
 ---
 
@@ -56,9 +73,9 @@ This study aims to contribute by:
 - **Payback-efficiency side:** observable monetization-stabilization mechanisms (commitment structures, speed-to-paid signals).
 
 ### Core Expectations
-- Higher complexity and lower transparency increase perceived uncertainty and unfairness, raising retention risk.
-- Predictability controls attenuate these effects by improving budget confidence.
-- Commitment mechanisms can improve payback efficiency but may increase adoption friction unless paired with strong transparency and predictability supports.
+- Higher complexity and lower transparency increase perceived uncertainty and unfairness, raising retention risk (Xia et al., 2004).
+- Predictability controls attenuate these effects by improving budget confidence (Lambrecht & Skiera, 2006).
+- Commitment mechanisms can improve payback efficiency but may increase adoption friction unless paired with strong transparency and predictability supports (Farris et al., 2010).
 
 This model is internally consistent if payback is treated as **mechanism-level inference** (not realized firm-level CAC payback performance).
 
@@ -70,6 +87,8 @@ This model is internally consistent if payback is treated as **mechanism-level i
 2. **Public Discourse Dataset (target >= 5,000 items):** measure normalized risk narratives by product.
 3. **Survey Experiment (N=180 minimum; ideally 240–300):** vignette-based manipulation of transparency/predictability controls (and optional commitment factor).
 4. **Optional Interviews (6–12):** mechanism plausibility and boundary conditions.
+
+This mixed-method design follows established methodological guidance for combining qualitative and quantitative evidence streams and integrating vignette experimentation with interpretive evidence (Aguinis & Bradley, 2014; Creswell & Plano Clark, 2017; Krippendorff, 2019).
 
 ### 5.2 Feasibility Assessment
 - The design is feasible if coding rules are strict, snapshot windows are fixed, and product-level inclusion thresholds are pre-registered.
@@ -85,6 +104,8 @@ This model is internally consistent if payback is treated as **mechanism-level i
   **Mitigation:** clearly delimit claims to attitudinal/intentional effects.
 - **External validity risk:** public discourse is non-representative.
   **Mitigation:** treat as risk-signal environment, not direct churn measurement.
+
+The validity architecture is aligned with best-practice principles for content coding, mixed-method integration, and experimental vignette rigor (Aguinis & Bradley, 2014; Creswell & Plano Clark, 2017; Krippendorff, 2019).
 
 ---
 
@@ -114,6 +135,8 @@ For payback interpretation:
 - avoid claiming realized CAC payback;
 - frame findings as design features likely to influence revenue stability and speed-to-paid pathways.
 
+This distinction is necessary because realized payback estimation requires firm-internal cost and cohort data beyond observable external artifacts (Farris et al., 2010).
+
 ---
 
 ## 8) Missing Constructs, Literature Streams, and Alternative Explanations
@@ -130,6 +153,8 @@ Recommended literature expansion should include:
 - post-adoption resistance and trust in digital services,
 - B2B onboarding and contracting frictions under hybrid monetization.
 
+These streams are theoretically consistent with evidence on fairness perceptions, trust-based digital adoption, and tariff-choice outcomes (Gefen et al., 2003; Lambrecht & Skiera, 2006; Xia et al., 2004).
+
 ---
 
 ## 9) Limits of Inference (Clarified)
@@ -141,4 +166,25 @@ Recommended literature expansion should include:
 ---
 
 ## 10) Revised Academic-Tone Abstract
-This proposal investigates token-based pay-per-use pricing in AI-enabled SaaS, focusing on how tariff design influences adoption-related evaluations, retention-risk appraisals, and payback-efficiency mechanisms. Integrating pricing-design attributes (complexity, transparency, predictability controls, commitment mechanisms) with cognitive appraisals (predictability, fairness, trust), the study applies a mixed-method design combining a market artifact dataset (N=45), public discourse analysis, a vignette-based survey experiment, and optional interviews. Illustrative examples are used only for mechanism interpretation. The expected contribution is a theory-informed framework that differentiates token-pricing architectures and explains their behavioral implications while clearly delimiting inference where firm-internal payback data are unavailable.
+This thesis investigates token-based pay-per-use pricing in AI-enabled SaaS, focusing on how tariff design influences adoption-related evaluations, retention-risk appraisals, and payback-efficiency mechanisms (Bhattacherjee, 2001; Lambrecht & Skiera, 2006). Integrating pricing-design attributes (complexity, transparency, predictability controls, commitment mechanisms) with cognitive appraisals (predictability, fairness, trust), the study applies a mixed-method design combining a market artifact dataset (N=45), public discourse analysis, a vignette-based survey experiment, and optional interviews (Aguinis & Bradley, 2014; Creswell & Plano Clark, 2017; Krippendorff, 2019). Illustrative examples are used only for mechanism interpretation (Eisenhardt, 1989). The expected contribution is a theory-informed framework that differentiates token-pricing architectures and explains their behavioral implications while clearly delimiting inference where firm-internal payback data are unavailable (Farris et al., 2010).
+
+---
+
+## 11) References (APA 7th)
+Aguinis, H., & Bradley, K. J. (2014). Best practice recommendations for designing and implementing experimental vignette methodology studies. *Organizational Research Methods, 17*(4), 351–371. https://doi.org/10.1177/1094428114547952
+
+Bhattacherjee, A. (2001). Understanding information systems continuance: An expectation-confirmation model. *MIS Quarterly, 25*(3), 351–370. https://doi.org/10.2307/3250921
+
+Creswell, J. W., & Plano Clark, V. L. (2017). *Designing and conducting mixed methods research* (3rd ed.). SAGE Publications.
+
+Eisenhardt, K. M. (1989). Building theories from case study research. *Academy of Management Review, 14*(4), 532–550. https://doi.org/10.5465/amr.1989.4308385
+
+Farris, P. W., Bendle, N. T., Pfeifer, P. E., & Reibstein, D. J. (2010). *Marketing metrics: The definitive guide to measuring marketing performance* (2nd ed.). Pearson Education.
+
+Gefen, D., Karahanna, E., & Straub, D. W. (2003). Trust and TAM in online shopping: An integrated model. *MIS Quarterly, 27*(1), 51–90. https://doi.org/10.2307/30036519
+
+Krippendorff, K. (2019). *Content analysis: An introduction to its methodology* (4th ed.). SAGE Publications.
+
+Lambrecht, A., & Skiera, B. (2006). Paying too much and being happy about it: Existence, causes, and consequences of tariff-choice biases. *Journal of Marketing Research, 43*(2), 212–223. https://doi.org/10.1509/jmkr.43.2.212
+
+Xia, L., Monroe, K. B., & Cox, J. L. (2004). The price is unfair! A conceptual framework of price fairness perceptions. *Journal of Marketing, 68*(4), 1–15. https://doi.org/10.1509/jmkg.68.4.1.42733
